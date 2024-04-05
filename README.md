@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate and creative student with a background in Data Engineering. I thrive in collaborative environments and enjoy tackling challenging projects that allow me to expand my skills and knowledge. 
+Hi! My name is Nasyef! I am a passionate and creative student with a background in Data Engineering. I thrive in collaborative environments and enjoy tackling challenging projects that allow me to expand my skills and knowledge. 
 
 My journey in Data Engineering began in 2022. Since then, I've had the opportunity to work on various projects, honing my expertise in utilisting BI Tools such as Power BI, Tableau & UIPath as well as data visualisation software such as R, Python, MySQL and BigQuery. I am particularly interested in any particular type of analytics as I find the process interesting. I was invited to travel overseas to South Korea for a student exchange program(2 week duration) sponsored by Intel AI. I have also completed a sponsored 7 month course(ETC), succesfully attaining a Data Analytics Certificate by Google.
 
