@@ -27,5 +27,5 @@ Feel free to explore my portfolio to get a glimpse of my work!
 
 ## Contact Me
 
-You can reach me via email at [email@example.com](mailto:email@example.com).
+You can reach me via email at [hydex04@gmail.com]
 
