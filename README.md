@@ -13,11 +13,11 @@ Feel free to explore my portfolio to get a glimpse of my work!
 
 ## Projects
 
-### Project 1
+### Google Data Analytics Case Study
 
-*Project description goes here*
+*You have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights you discover will then help guide marketing strategy for the company. You will present your analysis to the Bellabeatexecutive team along with your high-level recommendations for Bellabeat’s marketing strategy.*
 
-[Link to Project 1](https://sites.google.com/view/nasprojects)
+[Link to Project](https://sites.google.com/view/nasprojects)
 
 ### Project 2
 
