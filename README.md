@@ -17,7 +17,7 @@ Feel free to explore my portfolio to get a glimpse of my work!
 
 *Project description goes here*
 
-[Link to Project 1](project1.html)
+[Link to Project 1](https://sites.google.com/view/nasprojects)
 
 ### Project 2
 
